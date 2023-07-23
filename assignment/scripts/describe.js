@@ -158,14 +158,22 @@ if (mix === true) {
 }
 */ 
 
-//Fix 
+//Fix the is wrong and needs to be recorrected example It should be 
+//It should be [ if (temp > 39 && time >=4) ]
+//if (temp > 39 || time >= 4) {
+ // console.log('throw away the food!');
+//}
+
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
 
 /*
-
+It should be [ if (temp > 39 && time >=4) ]
+if (temp > 39 || time >= 4) {
+  console.log('throw away the food!');
+}
 
 
 let temp = 40;
@@ -177,7 +185,7 @@ if (temp > 39 || time >= 4) {
 */
 
 
-//Fix the console.log output will stay the same since. The code is wriiten correclly nothing to changee
+//Fix the console.log output will stay the same, the code is wriiten correctlly nothing to change.
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
