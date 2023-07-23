@@ -27,10 +27,9 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // We make a variable called "name" and set it to = “Dane” as a string. 
-// We check to see if the string is equal to “Mary”
+// Check to see if the string is equal to “Mary”.
 // If the variable is not equal to “Mary”, we continue with the next condition. If the variable does match “Mary” we console.log “Hi Mary!”
 // Since the variable does not meet the fist condition, we console.log the string “How do you do?”
-
 
 //CODE
 /*
@@ -46,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// We declare a variable called "secret and it is not set to anything at this given moment. 
-// We declare a variable called "code" and set it to "123" as a number.
-// We check if the "code" is equal to 123. 123 is equal to 123. 
-//the value we delcared "code will be multipled by 2, "code" equals out to 246 as a number. 
+// Declare a variable called "secret and it is not set to anything at this given moment. 
+// Declare a variable called "code" and set it to "123" as a number.
+// Check if the "code" is equal to 123. 123 is equal to 123. 
+//the value we delcared "code" will be multipled by 2, "code" will equal out to 246 as a number. 
 // Now that "code" is correct the variable "secret" will be set to "super" as a string.
 //We check to see if the new value of "code" is greater than 250. 246 is not greater than 250 so next line won't be ran. 
 //if the value of code was greater than 250, the variable "secret" would be reassgnied "duper". 
@@ -83,8 +82,6 @@ console.log(secret)
 //We check to see if "isStudent" is "true" and if the zip is greater than 8000 We console.log('Your're a student on the West cooast";
 //We check to see "isStudent" is "false and "age" is less that 30.  We console.log('What are your hobbies?'); .
 //Check to see if "isStudent" is "true" so we consolog.log ("welcome to Prime");
-
-
 
 
 //CODE
