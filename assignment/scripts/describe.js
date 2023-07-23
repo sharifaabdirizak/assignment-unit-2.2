@@ -53,7 +53,7 @@ if (name === 'Mary') {
 // Now that "code" is correct the variable "secret" will be set to "super" as a string.
 //We check to see if the new value of "code" is greater than 250. 246 is not greater than 250 so next line won't be ran. 
 //if the value of code was greater than 250, the variable "secret" would be reassgnied "duper". 
-// We console.log "super" and get the value "duper.
+// We console.log "super" and get the value "duper".
 
 
 
