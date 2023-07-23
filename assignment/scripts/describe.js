@@ -77,10 +77,14 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Declare variable "isStudent" and set it to "true" as (boolean).
+// Declare variable "age" and set it to 34 as (number).
+// Declare the variable zip and set it to 55407 as (number).
+//check to see if "isStudent" is "true" and if the zip is greater than 8000. Only one of these statements will be true, therefore move on to the next condition. 
+//The two represent that the conditions (both) must 
+//We check to see "isStudent" is "false and "age" is less that 30. Both conditions don't meet, move on to the next condition. 
+//Check to see if "isStudent" is "true" so we consolog.log ("welcome to Prime").
+
 
 //CODE
 /*
