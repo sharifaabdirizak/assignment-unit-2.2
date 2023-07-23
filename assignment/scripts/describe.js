@@ -26,7 +26,7 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// We make a variable called name and set it to “Dane” as a string. 
+// We make a variable called "name" and set it to = “Dane” as a string. 
 // We check to see if the string is equal to “Mary”
 // If the variable is not equal to “Mary”, we continue with the next condition. If the variable does match “Mary” we console.log “Hi Mary!”
 // Since the variable does not meet the fist condition, we console.log the string “How do you do?”
@@ -80,10 +80,11 @@ console.log(secret)
 // Declare variable "isStudent" and set it to "true" as (boolean).
 // Declare variable "age" and set it to 34 as (number).
 // Declare the variable zip and set it to 55407 as (number).
-//check to see if "isStudent" is "true" and if the zip is greater than 8000. Only one of these statements will be true, therefore move on to the next condition. 
-//The two represent that the conditions (both) must 
-//We check to see "isStudent" is "false and "age" is less that 30. Both conditions don't meet, move on to the next condition. 
-//Check to see if "isStudent" is "true" so we consolog.log ("welcome to Prime").
+//We check to see if "isStudent" is "true" and if the zip is greater than 8000 We console.log('Your're a student on the West cooast";
+//We check to see "isStudent" is "false and "age" is less that 30.  We console.log('What are your hobbies?'); .
+//Check to see if "isStudent" is "true" so we consolog.log ("welcome to Prime");
+
+
 
 
 //CODE
@@ -143,9 +144,10 @@ if (number >= 2) {
 /*
 
 // FIX- The variables are set to the worng vlaues and need to be corrected. 
-// let colorOne = "blue" and let colorTwo = "red".
+// let colorOne = "blue" and let colorTwo = "red" and let mix = true;
 // colorTwo is not reassigned. Only colorOne was reassigned to = "purple"
-//colorTwo should also = "purple" example if (mix === true) {
+//colorTwo should also = "purple" example 
+//if (mix === true) {
   colorTwo = "purple";
 }
 
@@ -158,7 +160,7 @@ if (mix === true) {
 }
 */ 
 
-//Fix the is wrong and needs to be recorrected example It should be 
+//Fix the condition is wrong and needs to be recorrected example It should be 
 //It should be [ if (temp > 39 && time >=4) ]
 //if (temp > 39 || time >= 4) {
  // console.log('throw away the food!');
