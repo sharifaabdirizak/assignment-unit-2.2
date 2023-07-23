@@ -141,6 +141,14 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+
+// FIX- The variables are set to the worng vlaues and need to be corrected. 
+// let colorOne = "blue" and let colorTwo = "red".
+// colorTwo is not reassigned. Only colorOne was reassigned to = "purple"
+//colorTwo should also = "purple" example if (mix === true) {
+  colorTwo = "purple";
+}
+
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
@@ -148,13 +156,18 @@ let mix = true;
 if (mix === true) {
   colorOne = 'purple';
 }
-*/
+*/ 
+
+//Fix 
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
 
 /*
+
+
+
 let temp = 40;
 const time = 4;
 
@@ -162,6 +175,9 @@ if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
 */
+
+
+//Fix the console.log output will stay the same since. The code is wriiten correclly nothing to changee
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
