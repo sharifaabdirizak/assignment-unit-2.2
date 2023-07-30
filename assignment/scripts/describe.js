@@ -51,8 +51,8 @@ if (name === 'Mary') {
 //the value we delcared "code" will be multipled by 2, "code" will equal out to 246 as a number. 
 // Now that "code" is correct the variable "secret" will be set to "super" as a string.
 //We check to see if the new value of "code" is greater than 250. 246 is not greater than 250 so next line won't be ran. 
-//if the value of code was greater than 250, the variable "secret" would be reassgnied "duper". 
-// We console.log "super" and get the value "duper".
+//if the value of code was greater than 250, the variable "secret" would be reassgnied "super". 
+// We console.log "secret" and get the value "super".
 
 
 
@@ -80,7 +80,7 @@ console.log(secret)
 // Declare variable "age" and set it to 34 as (number).
 // Declare the variable zip and set it to 55407 as (number).
 //We check to see if "isStudent" is "true" and if the zip is greater than 8000 We console.log('Your're a student on the West cooast";
-//We check to see "isStudent" is "false and "age" is less that 30.  We console.log('What are your hobbies?'); .
+//We check to see "isStudent" is "false and "age" is less than 30.  We console.log('What are your hobbies?'); .
 //Check to see if "isStudent" is "true" so we consolog.log ("welcome to Prime");
 
 
@@ -141,7 +141,9 @@ if (number >= 2) {
 /*
 
 // FIX- The variables are set to the worng vlaues and need to be corrected. 
-// let colorOne = "blue" and let colorTwo = "red" and let mix = true;
+// let colorOne = "blue" and let colorTwo = "red" and mix set to true; We check if mix is ture, it is, so we set colorOne and colorTwo to "purple".
+
+
 // colorTwo is not reassigned. Only colorOne was reassigned to = "purple"
 //colorTwo should also = "purple" example 
 //if (mix === true) {
@@ -184,8 +186,8 @@ if (temp > 39 || time >= 4) {
 */
 
 
-//Fix the console.log output will stay the same, the code is wriiten correctlly nothing to change.
-
+//Fix switch minAge <= age to  Age >= minAge
+//FIX switch the console statements because age is greater than 21, the condition is true and the console will log "enter".
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
 // -- it is, so we console.log 'enter'.
