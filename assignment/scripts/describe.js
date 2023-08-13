@@ -80,8 +80,8 @@ console.log(secret)
 // Declare variable "age" and set it to 34 as (number).
 // Declare the variable zip and set it to 55407 as (number).
 //We check to see if "isStudent" is "true" and if the zip is greater than 8000 We console.log('Your're a student on the West cooast";
-//We check to see "isStudent" is "false and "age" is less than 30.  We console.log('What are your hobbies?'); .
-//Check to see if "isStudent" is "true" so we consolog.log ("welcome to Prime");
+//We check to see "isStudent" is "false or age is less than 30.  We console.log('What are your hobbies?'); .
+//Check to see if "isStudent" is "true" so we consolog.log ("Welcome to Prime");
 
 
 //CODE
